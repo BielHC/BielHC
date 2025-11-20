@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Henrique Campos, tenho 24 anos e sou natural de Minas Gerais, atualmente moro em Recife-PE. Estou Concluí os Cursos Data Analyst (Cisco), Lógica de programação( DIO), DP-900 ( Microsoft) Aplicando SQL, Análise, Azure, Tableu. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA. Sou apaixonada por tecnologia e Busco sempre me desenvolver criando Códigos em JAVA e buscando aplicar meus conhecimentos.
+Me chamo Gabriel Henrique Campos, tenho 24 anos e sou natural de Minas Gerais, atualmente moro em Recife-PE. Estou Concluí os Cursos Data Analyst (Cisco), Lógica de programação( DIO), DP-900 ( Microsoft) Aplicando SQL, Análise, Azure, Tableu. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA. Sou apaixonada por tecnologia e Busco sempre me desenvolver criando Códigos em JavaScript e buscando aplicar meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/BielHC?tab=repositories&sort=stargazers">
